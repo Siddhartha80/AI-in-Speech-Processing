@@ -1,0 +1,17 @@
+# Core (Labs 1-8)
+numpy
+scipy
+matplotlib
+seaborn
+librosa>=0.10
+soundfile
+ipython
+jupyterlab
+
+# Lab 7 - Hidden Markov Models
+hmmlearn
+
+# Lab 8 - BiLSTM model and ASR/TTS synthesis
+tensorflow
+SpeechRecognition
+pyttsx3
